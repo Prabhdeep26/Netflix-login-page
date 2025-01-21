@@ -41,14 +41,15 @@
 }
 
 .content{
-    height: 620px;
-    width: 440px;
+    height: 85vh;
+    width: 29vw;
     margin-bottom: 20px;
     padding: 40px 20px 40px 30px;
     position: relative;
     color: white;
     background-color: rgba(0, 0, 0, 0.685);
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
